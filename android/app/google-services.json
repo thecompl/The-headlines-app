@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083942936274",
+    "project_id": "the-headlines",
+    "storage_bucket": "the-headlines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083942936274:android:92dcdcac16eb157c9f170b",
+        "android_client_info": {
+          "package_name": "com.sonambika.theheadlines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083942936274-1qogorhnefab4k93m7j2j6htl3t3vk5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sonambika.theheadlines",
+            "certificate_hash": "2075e62c36e8abe1bc00347228f90f7236941410"
+          }
+        },
+        {
+          "client_id": "1083942936274-lrj9ikhhnb1uvv8nt4m16k2b0c5c3g58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuvXBih_xgSurhpj8rEWnbB3EYf1pnhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083942936274-lrj9ikhhnb1uvv8nt4m16k2b0c5c3g58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
